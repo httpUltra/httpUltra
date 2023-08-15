@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello 👋 my name is Christian.
+Welcome to my Github!
 
+I'm a student studying Software Engineering.
+
+I'm currently learning:
+**JavaScript, React, Python & more...**
+
+
+- 📫 How to reach me: **christiantesp@gmail.com**
 <!--
 **httpUltra/httpUltra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
